@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Terminal';
+    src: url(fonts/VTSR____.TTF);
+  }
+body {
+    margin: 0;
+    background-color: black;
+}
+p, h1, h2 {
+    color: white;
+    font-family: "Terminal";
+}
+p {
+    margin: 0;
+}
+.container {
+    margin: 0.5vw;
+}
