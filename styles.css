@@ -47,15 +47,12 @@ p {
     caret-shape: block;
   }
 
-
-
- 
   .tab-content {
     display: none;
   }
 
   .tab-content p {
-    padding: 2px;
+    margin: 3px;
   }
 
   .tab-content.active {
