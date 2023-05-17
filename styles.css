@@ -52,7 +52,7 @@ p {
   }
 
   .tab-content p {
-    margin: 0.5vw;
+    margin: 5px;
   }
 
   .tab-content.active {
